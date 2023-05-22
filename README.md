@@ -1,1 +1,1 @@
-### Java Spring Boot with Oauth2 Google Authentication
+### Java Spring Boot with Oauth2 Github Authentication
